@@ -15,3 +15,4 @@ TODO
 * [Docker](https://docs.docker.com/installation/) support for all the scripts as standalone micro services.
 * Split the top level to directories per topics (UI, Utils, DB etc')
 
+[Apache License](https://github.com/greenido/phpSGS/blob/master/LICENSE)
