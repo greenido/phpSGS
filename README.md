@@ -1,7 +1,7 @@
-## phpSGS is a short name for php Short Good Scripts 
-====================================================
+phpSGS 
+======
 
-phpSGS is a collection of short (but useful) scripts.
+phpSGS (or php Short Good Scripts repo) is a collection of short (but useful) scripts.
 The goal is to build a resource for php developers that will save them time and efforts.
 
 
