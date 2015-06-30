@@ -1,12 +1,11 @@
 <?php
-
-//
-// Convert our json DB (e.g. firebase) to CSV 
-// So you can work with it in other DBs or Google sheets, excel etc'
-//
-// @author: Ido Green | @greenido
-// @date: 30/6/2015
-//
+/**
+ * Convert our json DB (e.g. firebase) to CSV 
+ * So you can work with it in other DBs or Google sheets, excel etc'
+ *
+ * @author: Ido Green | @greenido
+ * @date: 30/6/2015
+ */
 
 if (empty($argv[1])) {
   die("The json file name or URL cannot be found. Are you drunk?\n");
