@@ -16,3 +16,7 @@ TODO
 * Split the top level to directories per topics (UI, Utils, DB etc')
 
 [Apache License](https://github.com/greenido/phpSGS/blob/master/LICENSE)
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-65622529-1/ido-green.appspot.com/main)](https://github.com/greenido)
+
